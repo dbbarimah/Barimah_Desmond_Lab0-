@@ -1,1 +1,1 @@
-# Intro_to_AI
+# Intro_to_Ai
